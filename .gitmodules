@@ -1,0 +1,3 @@
+[submodule "apollo-client-package"]
+	path = apollo-client-package
+	url = https://github.com/Jgfrausing/apollo-client-package

@@ -1,3 +1,3 @@
 [submodule "apollo-client-package"]
-	path = apollo-client-package
-	url = https://github.com/Jgfrausing/apollo-client-package
+	path = dist
+	url = https://github.com/fifasite/apollo-client-package

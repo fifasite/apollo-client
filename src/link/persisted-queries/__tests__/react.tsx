@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/server';
 import gql from 'graphql-tag';
-import { print } from 'graphql';
+import print from '../../utils/print';
 import { sha256 } from 'crypto-hash';
 import fetch from 'jest-fetch-mock';
 

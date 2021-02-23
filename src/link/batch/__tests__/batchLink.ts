@@ -1,5 +1,5 @@
 import gql from 'graphql-tag';
-import { print } from 'graphql';
+import print from '../../utils/print';
 
 import { ApolloLink } from '../../core/ApolloLink';
 import { execute } from '../../core/execute';

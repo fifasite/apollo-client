@@ -1,6 +1,6 @@
 import gql from 'graphql-tag';
 import { sha256 } from 'crypto-hash';
-import { print } from 'graphql';
+import print from '../../utils/print';
 import { times } from 'lodash';
 import fetch from 'jest-fetch-mock';
 

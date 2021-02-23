@@ -1,6 +1,6 @@
 import React from 'react';
+import print from '../../../../link/utils/print';
 import {
-  print,
   graphql as execute,
   GraphQLSchema,
   GraphQLObjectType,

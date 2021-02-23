@@ -1,5 +1,5 @@
 import gql from 'graphql-tag';
-import { print } from 'graphql';
+import print from '../../link/utils/print';
 
 import { Observable } from '../../utilities';
 import { itAsync } from '../../testing';

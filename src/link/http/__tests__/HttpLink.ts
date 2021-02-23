@@ -1,6 +1,6 @@
 import gql from 'graphql-tag';
 import fetchMock from 'fetch-mock';
-import { print } from 'graphql';
+import print from '../../utils/print';
 
 import { Observable } from '../../../utilities/observables/Observable';
 import { ApolloLink } from '../../core/ApolloLink';

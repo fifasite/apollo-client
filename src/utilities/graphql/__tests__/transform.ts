@@ -1,4 +1,4 @@
-import { print } from 'graphql';
+import print from '../../../link/utils/print';
 import gql from 'graphql-tag';
 import { disableFragmentWarnings } from 'graphql-tag';
 
